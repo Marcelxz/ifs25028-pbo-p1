@@ -1,0 +1,11 @@
+# Abaikan file terkompilasi Java (file sampah sistem)
+*.class
+
+# Abaikan konfigurasi editor/IDE
+.vscode/
+.idea/
+*.iml
+
+# Abaikan file log sistem operasi
+.DS_Store
+Thumbs.db
